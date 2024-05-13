@@ -79,7 +79,7 @@ export default async function DetaljiUpitaPage() {
 
           {/* INFO */}
           <p className="px-6 mt-4 text-center text-[11px] text-yellow-200">
-            * Klikom na prihvati, event Vam se pojavljuje u "Event listi".
+            * Klikom na prihvati, event Vam se pojavljuje u Event listi.
           </p>
 
           {/* OPIS */}

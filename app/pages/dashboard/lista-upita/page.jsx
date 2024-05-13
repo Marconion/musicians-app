@@ -76,7 +76,7 @@ const ListaUpitaPage = () => {
           </Link>
           <p className="px-6 mt-4 text-center text-[11px] text-yellow-200">
             * Klikom na upit ulazite u detalje upita i možete prihvatiti isti.
-            Ako prihvatite, event Vam se pojavljuje u "Event listi".
+            Ako prihvatite, event Vam se pojavljuje u &quot;Event listi&quot;.
           </p>
           <p className="px-6 mt-4 text-center text-[11px] text-yellow-200">
             * Možete imati više upita u listi za isti datum.
@@ -84,7 +84,7 @@ const ListaUpitaPage = () => {
           <p className="px-6 mt-4 text-center text-[11px] text-yellow-200">
             {" "}
             * kada datum iz liste prodje, briše se iz liste. Sve upite možete
-            naći klikom na profilnu sliku i onda na "Istoriji upita".
+            naći klikom na profilnu sliku i onda na &quot;Istoriji upita&quot;.
           </p>
         </div>
       </div>
